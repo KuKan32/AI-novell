@@ -1,0 +1,86 @@
+[]«Устала я, и устала от своей усталости».
+ch*_sad,blondie,girl,with,backpack,on,her,back,not,looking,back,pose1 bg*_russian,street,rain,cloudy,weather,sad,atmosphere
+[]Так сказала Женевьева в «Черном обелиске» Эрих Марии Ремарк, и как же я её понимаю. Ведь я... тоже устала.
+bg*_sad,atmosphere,russian,school,classroom,desk,blackboard *hide
+[]Еще в школе я поняла, что должна работать. Прежде всего над собой. 
+bg*_library,at,school,close,up,of,bookcase *hide
+[]Образование — пусть и не самый быстрый, но зато доступный для большинства социальный лифт.
+bg*_wide,dark,street,lights,on,sad,atmosphere *hide
+[]А подняться мне было очень нужно. 
+ch*_standing,tired,sad,blondie,girl,crying,half,length,pose3 bg*_dark,kitchen,sad,atmosphere
+[]Так говорили родители, так говорили учителя, так говорила я сама себе. Каждый день. Даже когда хотелось сдаться и отдохнуть.
+[]ЕГЭ - это тяжело. Это нервы, это время, это бессонные ночи и панические атаки. Это сгусток тревоги в животе. Это мысли: «Что если не получится? Что тогда?»
+ch*_blonde,happy,girl,standing,diploma,in,hands,full,length,pose5 bg*_russian,school,assembly,hall,close,up,small,floor,of,stage
+[]Год был тяжёлым, но я справилась. Лучше многих. Я молодец. Узел в животе ослаб и позволил сделать глоток свежего воздуха.
+[]«Я тогда не знала, что дальше будет ещё тяжелее»
+ch*_tired,blondie,girl,stands,with,your,backat,the,blackboard,in,white,long,dress,full,length,pose6 bg*_large,blackboard,dark,atmosphere
+[]В школе тебя ещё воспринимают как ребёнка, но в университете — ты взрослый человек. Внезапно все твои проблемы становятся только твоими, от тебя уже не ожидают, а требуют продуктивности, ответственности и пунктуальности, а за ошибки уже не ругают — а наказывают.
+ch*_sad,tired,blondie,girl,standing,reading,book,in,her,hands,back,to,us,not,looking,back,in,clothes,full,length,pose7 bg*_corner,of,the,empty,classroom,dark,atmosphere,an,empty,dark,wall
+[]Я учусь на бюджете. От этого приходится стараться ещё больше. Может быть, мне бы и нравилось учиться, если бы не страх попасть в списки на отчисление. 
+bg*_dark,atmosphere,the,lamp,is,on,laptop,cup,of,coffee,pencils,pens,on,the,table *hide
+[]Постоянные долги, онлайн курсы, проекты и курсовая. Всё это смешивается в один снежный ком. Он растёт, тяжелеет, катитися с горы, норовя тебя раздавить.
+ch*_dark,atmosphere,large,tired,blonde,girl,standing,on,the,street,holding,a,small,stack,of,leaflets,with,a,cardboard,advertising,poster,on,it,pose8 bg*_cloudy,wide,street
+[]Время отведённое для досуга, я трачу на работу. Не хочу просить деньги у родителей. Они ожидают от меня самостоятельности и способности решать проблемы без чьей-то помощи. А я оправдаю их ожидания.
+ch*_dark,atmosphere,blondie,girl,walking,with,your,back,dont,look,back,backpack,pose9 bg*_dark,atmosphere,wide,street,lamp,is,on
+[]Чего бы мне это не стоило. Я ведь хорошая девочка.
+[]{color=#f00}Эмоциональное выгорание.{/color}
+[]{color=#f00}Болезненный перфекционизм.{/color}
+[]{color=#f00}Одиночество.{/color}
+ch*_dark,atmosphere,sad,tired,blondie,girl,walk,in,the,coridor,dont,look,back,in,pajamas,pose10 bg*_dark,atmosphere,long,corridor,in,the,dorm
+[]И всё-таки есть люди, которые не боятся быть "плохими". Обычно я таких презираю. Может, из зависти, может, из-за огромной разницы в мировоззрении. Но...
+bg*_dark,atmosphere,normal,closed,door,in,doom *hide
+[]*Открывает дверь в свою комнату*
+ch*_happy,ginger,woman,having,fun,in,a,christmas,hat,in,christmas,red,pajamas,standing,dancing,pose11 bg*_dark,christmas,room,in,doom,two,wardrobe,Christmas,tree
+[]«Это Полина. Красавица, душа компании, блоггерша, экстраверт, яркий представитель «потерянного» по мнению взрослых поколения. Она не такая, как я. Ночами пропадает в клубах. Приходит домой в лучшем случае под утро. Пары посещает раз через раз.
+ch*_large,happy,face,ginger,woman,in,a,christmas,hat,in,christmas,red,pajamas,standing,half,length,pose12
+[]И если я — 19 летняя бабка, то Полина — вечный подросток. Но почему-то меня она не раздаражает. Многим наш дуэт кажется странным. Но она прямое доказательство того, что не вся жизнь состоит из работы, бюрократии и негатива. Что в ней всегда ещё осталось место для...радости?
+ch*_ginger,woman,tired,smoking,standing,talking,on,the,phone,in,coat,pose13 bg*_dark,atmosphere,russian,snow,street,light,is,on
+[]Я постоянно слышу от своих родителей: «Пора браться за голову! Уже взрослая девка, а всё не наигралась. Вылетишь из универа — от нас с отцом помощи не жди! Вот как так, скажи мне? У нас в семье ленивцев нет, а ты...»
+[]{color=#f00}Как же мне всё это надоело...{/color}
+ch*_dark,atmosphere,large,back,ginger,girl,looks,into,the,distance,dont,look,back,in,black,coat,smoking,pose14 bg*_starry,sky
+[]«Или я не понял этой жизни, или она никуда не годится...» Так сказал Обломов. Знаю, не лучший пример. Тем более, если мы о примерах для подражания. Но... С самого детства нам говорят что делать, что учить, как правильно поступать, с кем лучше дружить, а чьей компании надлежит избегать.
+bg*_dark,atmosphere,room,beer,TV *hide
+[]Труд, зарплата, кредиты, стопки бумаг, вечер пятницы, телевизор и «выходное» пиво. И так по кругу. Лишь на мгновение предоставляют право выбора.
+bg*_dark,atmosphere,room,scattered,textbooks,on,the,table *hide
+[]Ощущается это как кирпичом по голове. Вот ты делал всё по указке, и тут вдруг должен решить, по какой ветке дальше будет развиваться жизненный путь.
+[]{color=#f00}Страшно....{/color}
+ch*_ginger,happy,girl,standing,diploma,in,hands,full,length,pose23 bg*_russian,school,assembly,hall,close,up,small,floor,of,stage
+[]Выбор сделан, ЕГЭ позади. Но...я так и не поняла, чего хочу от этой жизни. Для чего мне дана эта жизнь. Как я ей должна распорядится.
+ch*_dark,atmosphere,sad,ginger,woman,drinking,in,night,club,in,red,dress,standing,pose15 bg*_dark,atmosphere,bar,counter,in,a,night,club
+[]Теперь все снова вошло в рутинную, а потому привычную колею. Пары, домашнее задание, долги, курсы. Никто не задаёт вопросы о том, для чего это нужно. Все просто несутся в заданном направлении на перегонки.
+ch*_dark,atmosphere,sad,large,ginger,woman,dressed,in,towel,dont,look,back,pose16 bg*_dark,atmosphere,shower,in,room
+[]От этого в груди такое ощущение пустоты.
+ch*_dark,atmosphere,large,sad,ginger,girl,walking,in,hat,black,coat,headphones,on,the,head,pose17 bg*_dark,atmosphere,park,on,the,street,cloudy,weather,depressive,light,is,on
+[]Взрослые только осуждают. Вместо того, чтобы найти и залечить раны, они говорят нам игнорировать боль. 
+ch*_dark,atmosphere,large,sad,drunk,ginger,girl,drinking,alcohol,standing,in,red,T-short,in,blue,jeans,looks,straight,pose18 bg*_dark,atmosphere,sad,room,table,TV
+[]Могу ли я угнаться за остальными? А стоит ли бежать в том направлении? Что меня ждёт на финише. Столько вопросов, но ответов нет. Поэтому я просто буду заглушать ноющее чувство внутри себя... понятными мне способами.
+ch*_dark,atmosphere,sad,panic,ginger,girl,in,pajamas,crying,standing,pose19 bg*_dark,atmosphere,sad,dark,room,TV,no,light,off
+[]{color=#f00}Экзистенциальный кризис.{/color}
+[]{color=#f00}Проблема самоидентификации.{/color}
+[]{color=#f00}Прокрастинация.{/color}
+[]{color=#f00}Тревожность.{/color}
+[]{color=#f00}Девиантное поведение.{/color}
+bg*_dark,atmosphere,corridor,in,house *hide
+[]*Полина возвращается в общежитие после прогулки с друзьями, открывает дверь в комнату*
+ch*_dark,atmosphere,blondie,girl,tired,in,yellow,pajamas,full,length,standing,right,hand,on,waist,pose20 bg*_dark,atmosphere,room,in,house,christmas,tree
+[Саша]Скоро сессия. Завязывай со своими ночными похождениями.
+[Полина]Прошу заметить: днём я хожу не меньше.
+[Саша]Ты так из университета вылетишь.
+ch*_dark,atmosphere,large,tired,blondie,girl,puts,on,clothes,in,yellow,clothes,pose21 bg*_dark,atmosphere,room,in,house,christmas,tree
+[Мысли Полины]Мне нравится Саша. У неё всё так последовательно и систематизировано. Она видит не только путь, но и конечную цель. Твёрдо стоит на ногах и обязательно многого достигнет. Обычно приверженцы культа продуктивной личности меня раздражают. Но она...она придаёт мне уверенности.
+ch*_dark,atmosphere,large,cute,smile,blondie,girl,puts,on,clothes,full,length,in,yellow,T-shirt,talking,standing,pose22 bg*_dark,atmosphere,room,in,house,christmas,tree
+[Полина]Мы разные. И траектория жизненного пути у каждой своя.
+[Саша]Мы переживаем трудный период. Хотя, на самом деле, странно так говорить. Жизнь в принципе сложная штука.
+[Полина]Но мы не одиноки в своих проблемах и чувствах.
+[Саша]В первую очередь стоит искать утешение в людях.
+[Полина]Пока мы есть друг у друга, пока мы можем понимать и слышать окружающих, у нас будет надежда.
+[Саша]Юность не простой возраст.
+[Полина]Ты находишься на перепутье.
+[Саша]И только ты несёшь ответственность за свой выбор.
+[Полина]Это шаг во взрослую жизнь.
+[Саша]Важно не уйти ни в одну из крайностей.
+[Полина]Оставь комнату в сердце для внутреннего ребёнка.
+[Саша]Но будет готов принять на себя удар взрослой жизни.
+[Полина]Задавай вопросы.
+[Саша]Но не попадись в сети собственных заблуждений и комплексов.
+[Полина]Ты сможешь.

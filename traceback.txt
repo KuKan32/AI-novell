@@ -1,0 +1,26 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 22, in script
+    python:
+  File "game/script.rpy", line 23, in <module>
+    renpy.show(WHITEf)
+NameError: name 'WHITEf' is not defined
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 22, in script
+    python:
+  File "C:\Program Files (x86)\renpy-8.1.3-sdk\renpy\ast.py", line 1138, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Program Files (x86)\renpy-8.1.3-sdk\renpy\python.py", line 1122, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 23, in <module>
+    renpy.show(WHITEf)
+NameError: name 'WHITEf' is not defined
+
+Windows-10-10.0.19044 AMD64
+Ren'Py 8.1.3.23091805
+Generative novel 
+Wed Dec 13 21:39:29 2023
