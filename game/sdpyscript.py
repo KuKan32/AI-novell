@@ -4,16 +4,17 @@ ctypes.windll.user32.ShowWindow(ctypes.windll.kernel32.GetConsoleWindow(), 6)
 import os, webuiapi
 from PIL import Image
 
+prepend = "/".join(os.path.abspath(__file__).split("\\")[:-1])
 prompt = ""
 prompts={}
 dio_count=0
-with open(r'C:\Users\KanKan\Desktop\Generative_Novell_project\game\dialog.txt',encoding='UTF-8') as text:
+with open(prepend+'/dialog.txt',encoding='UTF-8') as text:
     for row in text:
         if 'ch*' in row or 'bg*' in row:
             prompts[dio_count]=row
         else:
             dio_count+=1
-prepend = "/".join(os.path.abspath(__file__).split("\\")[:-1])
+		
 bg_model = "animerge_v210.safetensors" 
 char_model = "animerge_v210.safetensors" 
 
@@ -23,7 +24,7 @@ neg_bg_prompt = ", people, multiple people, ugly, lowres, text, error, cropped, 
 char_pos_prompt = ", ((solo)), highres, best quality, best resolution, detailed skin"
 char_neg_prompt = ", cropped, ugly, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, nsfw"
 
-address = "192.168.0.115" 
+address = "localhost" 
 port = 7860
 api = webuiapi.WebUIApi(host=address, port=port)
 options = {}
