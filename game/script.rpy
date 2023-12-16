@@ -6,7 +6,7 @@ init python:
     prompts={}
     dio_count=0
     last_ch_num=None
-    with open(r'C:\Users\KanKan\Desktop\Generative_Novell_project\game\dialog.txt',encoding='UTF-8') as text:
+    with open(config.basedir+'/game/dialog.txt',encoding='UTF-8') as text:
         for row in text:
             if 'ch*' in row or 'bg*' in row:
                 prompts[dio_count]=('bg*' in row, 'ch*' in row, '*hide' in row)
@@ -24,17 +24,17 @@ label start:
             need_change=prompts.get(num)
             if need_change:
                 if need_change[0]:
-                    while not os.path.isfile(f'C:\\Users\\KanKan\\Desktop\\Generative_Novell_project\\game\\done{num}bg.txt'):
+                    while not os.path.isfile(config.basedir+f'/game/done{num}bg.txt'):
                         renpy.say('',f'{num}'+'bg loading{w=0.5}{nw}')
-                    os.remove(f'C:\\Users\\KanKan\\Desktop\\Generative_Novell_project\\game\\done{num}bg.txt')
+                    os.remove(config.basedir+f'/game/done{num}bg.txt')
                     renpy.scene()
                     renpy.show(f"bg {num}")
                     if last_ch_num:
                         renpy.show(f"ch {last_ch_num}")
                 if need_change[1]:
-                    while not os.path.isfile(f'C:\\Users\\KanKan\\Desktop\\Generative_Novell_project\\game\\done{num}ch.txt'):
+                    while not os.path.isfile(config.basedir+f'/game/done{num}ch.txt'):
                         renpy.say('',f'{num}'+'ch loading{w=0.5}{nw}')
-                    os.remove(f'C:\\Users\\KanKan\\Desktop\\Generative_Novell_project\\game\\done{num}ch.txt')
+                    os.remove(config.basedir+f'/game/done{num}ch.txt')
                     renpy.show(f"ch {num}")
                     last_ch_num=num
                 if need_change[2]:
